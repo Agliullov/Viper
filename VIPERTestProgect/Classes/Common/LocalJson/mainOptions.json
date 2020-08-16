@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Вариан",
+        "description": "Король",
+        "imageName": "Varian",
+        "header": "Альянс",
+        "footer": "Погиб"
+    },
+    {
+        "title":"Гаррош",
+        "description":"Вождь",
+        "imageName":"Garrosh",
+        "header": "Орда",
+        "footer": "Убит"
+    },
+    {
+        "title":"Сильвана",
+        "description":"Вождь",
+        "imageName":"Sylvanas",
+        "header": "",
+        "footer": "Жива"
+    }
+]
